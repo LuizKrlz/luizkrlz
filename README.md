@@ -12,5 +12,3 @@ My skills:
 
 - FIFA :)
 - JavaScript (Nodejs, ReactJS, React Native, Angularjs)
-- PHP (Laravel)
-- Python -> new
