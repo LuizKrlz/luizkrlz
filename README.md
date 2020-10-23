@@ -11,4 +11,4 @@ Currently i working like contractor, if you have a job for me contact-me.
 My skills:
 
 - FIFA :)
-- JavaScript (Nodejs, ReactJS, React Native, Angularjs)
+- JavaScript (Nodejs, ReactJS, React Native)
