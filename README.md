@@ -11,4 +11,4 @@ Currently i working like contractor, if you have a job for me contact-me.
 My skills:
 
 - ReactJs and React Native
-- Android
+- IOS Developer
