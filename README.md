@@ -12,3 +12,5 @@ My skills:
 - Tailwind css
 - NextJS
 - Express and Adonis JS
+
+Currently I'm studying Android with Kotlin :D
