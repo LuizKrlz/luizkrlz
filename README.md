@@ -5,12 +5,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Carlos%20Rocha%20Correa-4b4b4b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizcarlosrochacorrea/)](https://www.linkedin.com/in/luizcarlosrochacorrea/) 
 
 Enthusiastic with technologies and games.
-
-My skills:
-
-- React Native and JS
-- Tailwind css
-- NextJS
-- Express and Adonis JS
-
-Currently I'm studying Android with Kotlin :D
